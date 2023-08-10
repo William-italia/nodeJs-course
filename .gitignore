@@ -4,6 +4,9 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 curso_node
+package-lock.json
+package.json
+
 # User-specific files
 *.rsuser
 *.suo
